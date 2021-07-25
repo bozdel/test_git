@@ -5,4 +5,6 @@ int sum(int a, int b);
 
 int mul(int a, int b);
 
+int poww(int a, int p);
+
 #endif
