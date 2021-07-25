@@ -7,4 +7,6 @@ int mul(int a, int b);
 
 int poww(int a, int p);
 
+int divv(int a, int b);
+
 #endif

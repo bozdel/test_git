@@ -14,3 +14,7 @@ int poww(int a, int p) {
 	}
 	return res;
 }
+
+int divv(int a, int b) {
+	return a / b;
+}
