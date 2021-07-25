@@ -4,9 +4,9 @@
 
 int main() {
 	printf("hello, world!\n");
-	int a = 5;
-	int b = 10;
-	int s = sum(a,b);
+	int a = 2;
+	int b = 4;
+	int s = sum(a,pow(a, b));
 	printf("%d\n", s);
 	return 0;
 }
