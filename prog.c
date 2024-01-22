@@ -10,5 +10,6 @@ int main() {
 	int b = 4;
 	int s = sum(a,poww(a, b));
 	printf("%d\n", s);
+	printf("end2\n");
 	return 0;
 }
