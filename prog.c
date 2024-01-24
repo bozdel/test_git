@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <func.h>
 
+/*
+ * some comment
+ */
 
 int main() {
 	printf("hello, world!\n");
